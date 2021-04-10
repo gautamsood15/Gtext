@@ -4,14 +4,15 @@ Jotter is a simple notepad created in Python using Tkinter module. This notepad 
 
 For creating this notepad, Python 3 and Tkinter should already be installed in your system. Tkinter is a Python GUI Package
 
-###Command to install Tkinter
+##Tkinter
 
 $pip install python-tk 
 
 
-###INFO
 
-messagebox is used to write the message in the white box called notepad and filedialog is used for the dialog box to appear when  you are opening file from anywhere in your system or saving your file in a particular position or place.
+messagebox -- used to write the message in the white box called notepad and 
+
+filedialog -- used for the dialog box to appear when  you are opening file from anywhere in your system or saving your file in a particular position or place.
 
 
 
